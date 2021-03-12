@@ -2,6 +2,8 @@
   "name": "root",
   "private": true,
   "scripts": {
+    "start": "lerna run start --parallel",
+    "bootstrap": "lerna bootstrap",
     "create-package": "lerna create",
     "install": "lerna add --exact"
   },
