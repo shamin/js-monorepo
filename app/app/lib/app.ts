@@ -1,3 +1,3 @@
-const data = () => {
-  console.log("test")
-}
+import { Button } from '@js-monorepo/components';
+
+console.log(Button)

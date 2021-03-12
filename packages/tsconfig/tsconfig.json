@@ -6,8 +6,8 @@
     "strict": true,
     "jsx": "react",
     "sourceMap": true,
+    "declarationMap": true,
     "moduleResolution": "Node",
-    "allowSyntheticDefaultImports": true,
-    "noImplicitAny": true
+    "allowSyntheticDefaultImports": true
   }
 }

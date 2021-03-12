@@ -6,12 +6,15 @@
     "lib"
   ],
   "scripts": {
-    "build":  "tsc"
+    "build": "tsc"
   },
   "devDependencies": {
     "@js-monorepo/eslint-config": "1.0.0",
     "@js-monorepo/tsconfig": "1.0.0",
     "eslint": "7.21.0",
     "typescript": "4.2.3"
+  },
+  "dependencies": {
+    "@js-monorepo/components": "1.0.0"
   }
 }
