@@ -1,11 +1,12 @@
 # `@js-monorepo/eslint-config`
 
-> TODO: description
+> Reusable eslint configuration
 
 ## Usage
 
-```
-const eslintConfig = require('@js-monorepo/eslint-config');
-
-// TODO: DEMONSTRATE API
+Add this to your `.eslintrc`
+```js
+{
+  "extends": "@js-monorepo/eslint-config"
+}
 ```

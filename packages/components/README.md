@@ -1,11 +1,9 @@
 # `@js-monorepo/components`
 
-> TODO: description
+> Component library with storybook
 
 ## Usage
 
-```
-const components = require('@js-monorepo/components');
-
-// TODO: DEMONSTRATE API
+```js
+import { Button } from '@js-monorepo/components'
 ```
