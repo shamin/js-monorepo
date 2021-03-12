@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "create-package": "lerna create",
-    "add": "lerna add --exact"
+    "install": "lerna add --exact"
   },
   "devDependencies": {
     "lerna": "^3.22.1"

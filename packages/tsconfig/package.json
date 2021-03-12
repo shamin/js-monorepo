@@ -1,0 +1,10 @@
+{
+  "name": "@js-monorepo/tsconfig",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Typescript configuration",
+  "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ]
+}

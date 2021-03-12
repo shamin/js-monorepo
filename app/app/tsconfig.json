@@ -1,0 +1,8 @@
+{
+  "extends": "@js-monorepo/tsconfig",
+  "include": ["lib"],
+  "exclude": ["node_modules", "**/__tests__/*"],
+  "compilerOptions": {
+    "outDir": "dist2"
+  }
+}
