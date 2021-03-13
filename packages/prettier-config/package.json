@@ -1,0 +1,15 @@
+{
+  "name": "@js-monorepo/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier configuration",
+  "main": "index.json",
+  "files": [
+    "index.json"
+  ],
+  "peerDependencies": {
+    "prettier": ">= 2"
+  },
+  "dependencies": {
+    "@js-monorepo/eslint-config": "1.0.0"
+  }
+}
